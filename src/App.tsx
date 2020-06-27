@@ -2,6 +2,8 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+var arr = ['B', 'O', 'N', 'U', 'S'];
+
 function App() {
   return (
     <div className="App">
@@ -20,6 +22,11 @@ function App() {
         </a>
         <div>
           React environment variable opdracht 2.1.6: {process.env.REACT_APP_OPDRACHT_215}
+        </div>
+        <div>
+          {arr.map(arrItem => {
+            return (arrItem)
+          })}
         </div>
       </header>
     </div>
