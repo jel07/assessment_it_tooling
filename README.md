@@ -1,3 +1,11 @@
+## Installation instructions (assesment question nr 2.1.4)
+
+- Download git bash
+- Download Visual studio code
+- Do git clone with this repository
+
+----
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
