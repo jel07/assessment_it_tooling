@@ -18,6 +18,9 @@ function App() {
         >
           Learn React
         </a>
+        <div>
+          React environment variable opdracht 2.1.6: {process.env.REACT_APP_OPDRACHT_215}
+        </div>
       </header>
     </div>
   );
