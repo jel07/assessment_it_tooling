@@ -4,6 +4,7 @@
 - Download Visual studio code
 - Do git clone with this repository
 
+This is a assesment for It tooling
 ----
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
